@@ -40,4 +40,5 @@
 ---
 
 ### 📱 Visual Showcase & Figma Prototype
-> *(Drag & Drop your Figma PNG images or animated GIFs here to show off the screens!)*
+>https://www.figma.com/proto/z1LcVbQn3K0nNwxTtaSwH3/LIBRARY?node-id=76-35&p=f&t=BHpTSg4fXY8H1SyE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A35
+
