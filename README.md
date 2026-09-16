@@ -40,5 +40,4 @@
 ---
 
 ### 📱 Visual Showcase & Figma Prototype
->https://www.figma.com/proto/z1LcVbQn3K0nNwxTtaSwH3/LIBRARY?node-id=76-35&p=f&t=BHpTSg4fXY8H1SyE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A35
-
+>https://www.figma.com/proto/z1LcVbQn3K0nNwxTtaSwH3/LIBRARY?node-id=76-40&t=bP9kaeIUlPVdwDg8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A35
